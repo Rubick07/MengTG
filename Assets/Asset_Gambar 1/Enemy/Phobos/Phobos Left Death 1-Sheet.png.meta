@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: fa44a8c0961d92a4abbc6cd970dd220d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3540536705871711796
+    second: Phobos Left Death 1-Sheet_0
+  - first:
+      213: -2475457491235922659
+    second: Phobos Left Death 1-Sheet_1
+  - first:
+      213: -8561795740951944384
+    second: Phobos Left Death 1-Sheet_2
+  - first:
+      213: -6876855923313739005
+    second: Phobos Left Death 1-Sheet_3
+  - first:
+      213: 5158314839983900331
+    second: Phobos Left Death 1-Sheet_4
+  - first:
+      213: -8535204338000815359
+    second: Phobos Left Death 1-Sheet_5
+  - first:
+      213: -4710888542119218768
+    second: Phobos Left Death 1-Sheet_6
+  - first:
+      213: -2826643096914560822
+    second: Phobos Left Death 1-Sheet_7
+  - first:
+      213: -2977392211946011788
+    second: Phobos Left Death 1-Sheet_8
+  - first:
+      213: -39102289875666609
+    second: Phobos Left Death 1-Sheet_9
+  - first:
+      213: -5716931601340633792
+    second: Phobos Left Death 1-Sheet_10
+  - first:
+      213: 4007909329157735369
+    second: Phobos Left Death 1-Sheet_11
+  - first:
+      213: 3279245500064857639
+    second: Phobos Left Death 1-Sheet_12
+  - first:
+      213: -3909940784082396840
+    second: Phobos Left Death 1-Sheet_13
+  - first:
+      213: 926861828611224048
+    second: Phobos Left Death 1-Sheet_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e07bb1063822130800000000000000
+      internalID: 3540536705871711796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9d4af68865add0800000000000000
+      internalID: -2475457491235922659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0436b1dc2246e2980800000000000000
+      internalID: -8561795740951944384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bf75f09ff7090a0800000000000000
+      internalID: -6876855923313739005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6cddc5404069740800000000000000
+      internalID: 5158314839983900331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b961440ecdc8980800000000000000
+      internalID: -8535204338000815359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b68e84df8f9eb0800000000000000
+      internalID: -4710888542119218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f89d541fb5c8d0800000000000000
+      internalID: -2826643096914560822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47381f1ee8d2ea6d0800000000000000
+      internalID: -2977392211946011788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497e0eaca4157ff0800000000000000
+      internalID: -39102289875666609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de2e88ff069a0b0800000000000000
+      internalID: -5716931601340633792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6490
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3cb60dc44fe9730800000000000000
+      internalID: 4007909329157735369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7080
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef9aa7868328d20800000000000000
+      internalID: 3279245500064857639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7670
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d4f792991db9c0800000000000000
+      internalID: -3909940784082396840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phobos Left Death 1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 0
+        width: 590
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bd322cefdcdc00800000000000000
+      internalID: 926861828611224048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

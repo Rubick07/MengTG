@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: f55e5963e7e51e0438206917e1e64283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6435081875350153428
+    second: Ballista (back) Atk-Sheet_0
+  - first:
+      213: 9195938667163516890
+    second: Ballista (back) Atk-Sheet_1
+  - first:
+      213: -3456902942495188717
+    second: Ballista (back) Atk-Sheet_2
+  - first:
+      213: 1163785272885028191
+    second: Ballista (back) Atk-Sheet_3
+  - first:
+      213: 8278558858499227816
+    second: Ballista (back) Atk-Sheet_4
+  - first:
+      213: -2974741545556313143
+    second: Ballista (back) Atk-Sheet_5
+  - first:
+      213: -5327364035674912516
+    second: Ballista (back) Atk-Sheet_6
+  - first:
+      213: 7283316512887489463
+    second: Ballista (back) Atk-Sheet_7
+  - first:
+      213: 5872199833357206250
+    second: Ballista (back) Atk-Sheet_8
+  - first:
+      213: 1346862596604859204
+    second: Ballista (back) Atk-Sheet_9
+  - first:
+      213: -4328149641497173654
+    second: Ballista (back) Atk-Sheet_10
+  - first:
+      213: -1751946981514988263
+    second: Ballista (back) Atk-Sheet_11
+  - first:
+      213: 8535419262491649295
+    second: Ballista (back) Atk-Sheet_12
+  - first:
+      213: -3982757415783984153
+    second: Ballista (back) Atk-Sheet_13
+  - first:
+      213: -1164756070596364832
+    second: Ballista (back) Atk-Sheet_14
+  - first:
+      213: -7817698235744285216
+    second: Ballista (back) Atk-Sheet_15
+  - first:
+      213: 6785987046811968798
+    second: Ballista (back) Atk-Sheet_16
+  - first:
+      213: -5375403411302452692
+    second: Ballista (back) Atk-Sheet_17
+  - first:
+      213: 848732132739317766
+    second: Ballista (back) Atk-Sheet_18
+  - first:
+      213: 1206947691085963624
+    second: Ballista (back) Atk-Sheet_19
+  - first:
+      213: -8667905114665635922
+    second: Ballista (back) Atk-Sheet_20
+  - first:
+      213: -6568227564704213436
+    second: Ballista (back) Atk-Sheet_21
+  - first:
+      213: 6557066640295953357
+    second: Ballista (back) Atk-Sheet_22
+  - first:
+      213: 3097935654418140562
+    second: Ballista (back) Atk-Sheet_23
+  - first:
+      213: -7171954584393267168
+    second: Ballista (back) Atk-Sheet_24
+  - first:
+      213: 8844241358644355017
+    second: Ballista (back) Atk-Sheet_25
+  - first:
+      213: -1771421157213551399
+    second: Ballista (back) Atk-Sheet_26
+  - first:
+      213: -118902674538609665
+    second: Ballista (back) Atk-Sheet_27
+  - first:
+      213: 9190586602474441030
+    second: Ballista (back) Atk-Sheet_28
+  - first:
+      213: 913053494703934009
+    second: Ballista (back) Atk-Sheet_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ecc00fd00e4950800000000000000
+      internalID: 6435081875350153428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7f80ee798e9f70800000000000000
+      internalID: 9195938667163516890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 100
+        width: 280
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195299d61d9600d0800000000000000
+      internalID: -3456902942495188717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 100
+        width: 280
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a4292a88962010800000000000000
+      internalID: 1163785272885028191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 100
+        width: 260
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0820d8b6953e270800000000000000
+      internalID: 8278558858499227816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf48e335897b6d0800000000000000
+      internalID: -2974741545556313143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8c76892a66116b0800000000000000
+      internalID: -5327364035674912516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34561a7c9831560800000000000000
+      internalID: 7283316512887489463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24d5dd2ae3e7150800000000000000
+      internalID: 5872199833357206250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44394e7456401b210800000000000000
+      internalID: 1346862596604859204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 100
+        width: 240
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a3d325d25fe3c0800000000000000
+      internalID: -4328149641497173654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 80
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05849393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153b75a085dfa7e0800000000000000
+      internalID: -1751946981514988263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 81
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05161237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0567ddb896e37670800000000000000
+      internalID: 8535419262491649295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 90
+        width: 300
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.036949735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e394ad5b376ab8c0800000000000000
+      internalID: -3982757415783984153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 100
+        width: 300
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bf126684f5dfe0800000000000000
+      internalID: -1164756070596364832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 100
+        width: 300
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed8341efd4f18390800000000000000
+      internalID: -7817698235744285216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 100
+        width: 300
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1521afe34bac2e50800000000000000
+      internalID: 6785987046811968798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 100
+        width: 300
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f4e8d31bb665b0800000000000000
+      internalID: -5375403411302452692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5770
+        y: 100
+        width: 300
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000361c06d47cb00800000000000000
+      internalID: 848732132739317766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 100
+        width: 300
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86128a5c780ffb010800000000000000
+      internalID: 1206947691085963624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 100
+        width: 300
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2095093a65b780800000000000000
+      internalID: -8667905114665635922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 100
+        width: 300
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44650e174d7f8d4a0800000000000000
+      internalID: -6568227564704213436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 100
+        width: 300
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc387675e516ffa50800000000000000
+      internalID: 6557066640295953357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 7370
+        y: 100
+        width: 300
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4c9a60141efa20800000000000000
+      internalID: 3097935654418140562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 100
+        width: 300
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028410cdd49187c90800000000000000
+      internalID: -7171954584393267168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 8010
+        y: 100
+        width: 300
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf90d928ae0dba70800000000000000
+      internalID: 8844241358644355017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4cca8c7d5aa67e0800000000000000
+      internalID: -1771421157213551399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 8650
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34841c5a2995ef0800000000000000
+      internalID: -118902674538609665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64904f532d58b8f70800000000000000
+      internalID: 9190586602474441030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ballista (back) Atk-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 9290
+        y: 100
+        width: 300
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac1ccd051dbac00800000000000000
+      internalID: 913053494703934009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

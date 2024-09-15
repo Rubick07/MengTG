@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 0a6abe3af391c9249af9dffba651fa30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1619777555089889799
+    second: Arcane Orb Atk-Sheet_0
+  - first:
+      213: 6616525822536603632
+    second: Arcane Orb Atk-Sheet_1
+  - first:
+      213: -2072491346240737290
+    second: Arcane Orb Atk-Sheet_2
+  - first:
+      213: -8122006460867707545
+    second: Arcane Orb Atk-Sheet_3
+  - first:
+      213: -448264144062524009
+    second: Arcane Orb Atk-Sheet_4
+  - first:
+      213: -6020699593251500940
+    second: Arcane Orb Atk-Sheet_5
+  - first:
+      213: -7023946702195225920
+    second: Arcane Orb Atk-Sheet_6
+  - first:
+      213: -543913343669737913
+    second: Arcane Orb Atk-Sheet_7
+  - first:
+      213: 505902323592856724
+    second: Arcane Orb Atk-Sheet_8
+  - first:
+      213: 2318411997249611886
+    second: Arcane Orb Atk-Sheet_9
+  - first:
+      213: 4123357617354919061
+    second: Arcane Orb Atk-Sheet_10
+  - first:
+      213: -6794463584780252357
+    second: Arcane Orb Atk-Sheet_11
+  - first:
+      213: 3996021248471672707
+    second: Arcane Orb Atk-Sheet_12
+  - first:
+      213: -518780076209560873
+    second: Arcane Orb Atk-Sheet_13
+  - first:
+      213: -2036187772121838206
+    second: Arcane Orb Atk-Sheet_14
+  - first:
+      213: 4450296973907464998
+    second: Arcane Orb Atk-Sheet_15
+  - first:
+      213: 4952305224062524628
+    second: Arcane Orb Atk-Sheet_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 17
+        width: 207
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a984aba1b9a7610800000000000000
+      internalID: 1619777555089889799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 17
+        width: 207
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75e730e2f92db50800000000000000
+      internalID: 6616525822536603632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 17
+        width: 207
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffef33e9180d33e0800000000000000
+      internalID: -2072491346240737290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7d84f726d84f80800000000000000
+      internalID: -8122006460867707545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795db9fc22277c9f0800000000000000
+      internalID: -448264144062524009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cc7e47e9d227ca0800000000000000
+      internalID: -6020699593251500940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 17
+        width: 205
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca806650bde58e90800000000000000
+      internalID: -7023946702195225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74668f912b1a378f0800000000000000
+      internalID: -543913343669737913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 17
+        width: 204
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4940cc0ab73550700800000000000000
+      internalID: 505902323592856724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6821139d67ac2020800000000000000
+      internalID: 2318411997249611886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 17
+        width: 205
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c475018eb193930800000000000000
+      internalID: 4123357617354919061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b88d54e5735b1a0800000000000000
+      internalID: -6794463584780252357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 17
+        width: 207
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38721165728b47730800000000000000
+      internalID: 3996021248471672707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 17
+        width: 207
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2aaf0f44cecc8f0800000000000000
+      internalID: -518780076209560873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 17
+        width: 207
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0faa62020eb3e0800000000000000
+      internalID: -2036187772121838206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 17
+        width: 207
+        height: 356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62310c2e481a2cd30800000000000000
+      internalID: 4450296973907464998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Orb Atk-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 17
+        width: 207
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcde83ec5f1ab440800000000000000
+      internalID: 4952305224062524628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

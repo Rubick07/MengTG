@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: d309551b29c25ce45b5dcd8b75a506f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2311497494234198368
+    second: Tilemap batu n kayu_0
+  - first:
+      213: 7068591263270256356
+    second: Tilemap batu n kayu_1
+  - first:
+      213: 8980794370638427540
+    second: Tilemap batu n kayu_2
+  - first:
+      213: 1268446311993350097
+    second: Tilemap batu n kayu_3
+  - first:
+      213: -4260948018208374849
+    second: Tilemap batu n kayu_4
+  - first:
+      213: 5572067925222000514
+    second: Tilemap batu n kayu_5
+  - first:
+      213: 6726684686780866459
+    second: Tilemap batu n kayu_6
+  - first:
+      213: -1543248602819667909
+    second: Tilemap batu n kayu_7
+  - first:
+      213: 2133890392690625352
+    second: Tilemap batu n kayu_8
+  - first:
+      213: 5498262165337649215
+    second: Tilemap batu n kayu_9
+  - first:
+      213: -2390293288751877976
+    second: Tilemap batu n kayu_10
+  - first:
+      213: -5312229144652363788
+    second: Tilemap batu n kayu_11
+  - first:
+      213: -2943329309844643468
+    second: Tilemap batu n kayu_12
+  - first:
+      213: -6460609409166047689
+    second: Tilemap batu n kayu_13
+  - first:
+      213: 5423713672753318411
+    second: Tilemap batu n kayu_14
+  - first:
+      213: 3723508321014327562
+    second: Tilemap batu n kayu_15
+  - first:
+      213: 3475861263336849469
+    second: Tilemap batu n kayu_16
+  - first:
+      213: 7303936337031400811
+    second: Tilemap batu n kayu_17
+  - first:
+      213: 4247922279370694967
+    second: Tilemap batu n kayu_18
+  - first:
+      213: -467478267332069374
+    second: Tilemap batu n kayu_19
+  - first:
+      213: -3388906250306832473
+    second: Tilemap batu n kayu_20
+  - first:
+      213: 55675825024868434
+    second: Tilemap batu n kayu_21
+  - first:
+      213: 5482000690819501911
+    second: Tilemap batu n kayu_22
+  - first:
+      213: 4089379313227885774
+    second: Tilemap batu n kayu_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f80369b6141020800000000000000
+      internalID: 2311497494234198368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 190
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee37ad8d4ea81260800000000000000
+      internalID: 7068591263270256356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4953bb6d5e032ac70800000000000000
+      internalID: 8980794370638427540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d79403433d6a9110800000000000000
+      internalID: 1268446311993350097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 200
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff8485a521ed4c0800000000000000
+      internalID: -4260948018208374849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 200
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28784338146f35d40800000000000000
+      internalID: 5572067925222000514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 190
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f12a7451cf95d50800000000000000
+      internalID: 6726684686780866459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_7
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 190
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d0dc7297459ae0800000000000000
+      internalID: -1543248602819667909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 190
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b81fd910a1d9d10800000000000000
+      internalID: 2133890392690625352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30bbeeee40cd4c40800000000000000
+      internalID: 5498262165337649215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_10
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 200
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b1fe0be8f3ded0800000000000000
+      internalID: -2390293288751877976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 200
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c4830dbb2746b0800000000000000
+      internalID: -5312229144652363788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e6bd46913727d0800000000000000
+      internalID: -2943329309844643468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7368c1ed8fd4756a0800000000000000
+      internalID: -6460609409166047689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a04eb69d6e44b40800000000000000
+      internalID: 5423713672753318411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092548071f8ca330800000000000000
+      internalID: 3723508321014327562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30cbb1376dbc3030800000000000000
+      internalID: 3475861263336849469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d03de866bcc5560800000000000000
+      internalID: 7303936337031400811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ab5f7ec6a3fa30800000000000000
+      internalID: 4247922279370694967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_19
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f47f1efe2389f0800000000000000
+      internalID: -467478267332069374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_20
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73c5578bf28f0d0800000000000000
+      internalID: -3388906250306832473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_21
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502f2d2edcc5c000800000000000000
+      internalID: 55675825024868434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0eba559af31c40800000000000000
+      internalID: 5482000690819501911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap batu n kayu_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 20
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc67c4a1d460c830800000000000000
+      internalID: 4089379313227885774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: df436f0aa68ea70438725e3425db81f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3916873186215156102
+    second: Luke Right Death-Sheet_0
+  - first:
+      213: 8212850524883144871
+    second: Luke Right Death-Sheet_1
+  - first:
+      213: 1234163326877227992
+    second: Luke Right Death-Sheet_2
+  - first:
+      213: -6397589167109341194
+    second: Luke Right Death-Sheet_3
+  - first:
+      213: -8753564808514128642
+    second: Luke Right Death-Sheet_4
+  - first:
+      213: 7997965327336097524
+    second: Luke Right Death-Sheet_5
+  - first:
+      213: -5653078112181831561
+    second: Luke Right Death-Sheet_6
+  - first:
+      213: 7769533389672912148
+    second: Luke Right Death-Sheet_7
+  - first:
+      213: -6121619477296570222
+    second: Luke Right Death-Sheet_8
+  - first:
+      213: -7528045539104748236
+    second: Luke Right Death-Sheet_9
+  - first:
+      213: -5801848854918574547
+    second: Luke Right Death-Sheet_10
+  - first:
+      213: 1036344647498845651
+    second: Luke Right Death-Sheet_11
+  - first:
+      213: -8541200548366630938
+    second: Luke Right Death-Sheet_12
+  - first:
+      213: 2975435796075787361
+    second: Luke Right Death-Sheet_13
+  - first:
+      213: -3229248695663399334
+    second: Luke Right Death-Sheet_14
+  - first:
+      213: -4522529644988924834
+    second: Luke Right Death-Sheet_15
+  - first:
+      213: -7369738532709755134
+    second: Luke Right Death-Sheet_16
+  - first:
+      213: -4206067075781392584
+    second: Luke Right Death-Sheet_17
+  - first:
+      213: -5378889716894811355
+    second: Luke Right Death-Sheet_18
+  - first:
+      213: -1475923424552915598
+    second: Luke Right Death-Sheet_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a461f69874a9c0800000000000000
+      internalID: -3916873186215156102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05a01f908e9f170800000000000000
+      internalID: 8212850524883144871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd455c101a02110800000000000000
+      internalID: 1234163326877227992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7f836c823737a0800000000000000
+      internalID: -6397589167109341194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b72e5f27158680800000000000000
+      internalID: -8753564808514128642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f642c5171b7efe60800000000000000
+      internalID: 7997965327336097524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bdd3886b3c81b0800000000000000
+      internalID: -5653078112181831561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4159df1047de2db60800000000000000
+      internalID: 7769533389672912148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29020a5e483ab0ba0800000000000000
+      internalID: -6121619477296570222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d82bca772078790800000000000000
+      internalID: -7528045539104748236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e421ab431bb7fa0800000000000000
+      internalID: -5801848854918574547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddcb0357f5d16e00800000000000000
+      internalID: 1036344647498845651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3c3fba5f877980800000000000000
+      internalID: -8541200548366630938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164341d871fda4920800000000000000
+      internalID: 2975435796075787361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee69bab676f23d0800000000000000
+      internalID: -3229248695663399334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf240df3fbc31c0800000000000000
+      internalID: -4522529644988924834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207935ed9dd69b990800000000000000
+      internalID: -7369738532709755134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837859e774c01a5c0800000000000000
+      internalID: -4206067075781392584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbb721d485a55b0800000000000000
+      internalID: -5378889716894811355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luke Right Death-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 0
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d68d31777748be0800000000000000
+      internalID: -1475923424552915598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

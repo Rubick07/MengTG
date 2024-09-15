@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: 6428d805c221aaa4e8b123af55d2d4ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -177124320225449608
+    second: Cursed Graveyard-Sheet 1_0
+  - first:
+      213: 2996175091438914550
+    second: Cursed Graveyard-Sheet 1_1
+  - first:
+      213: -125296934960553637
+    second: Cursed Graveyard-Sheet 1_2
+  - first:
+      213: 7114879445430609246
+    second: Cursed Graveyard-Sheet 1_3
+  - first:
+      213: -8097217320436358976
+    second: Cursed Graveyard-Sheet 1_4
+  - first:
+      213: 6721124624389535219
+    second: Cursed Graveyard-Sheet 1_5
+  - first:
+      213: 2236602191088808563
+    second: Cursed Graveyard-Sheet 1_6
+  - first:
+      213: 2355482093400005924
+    second: Cursed Graveyard-Sheet 1_7
+  - first:
+      213: -8287590386026810325
+    second: Cursed Graveyard-Sheet 1_8
+  - first:
+      213: 3161190354730822892
+    second: Cursed Graveyard-Sheet 1_9
+  - first:
+      213: 7408351940762620647
+    second: Cursed Graveyard-Sheet 1_10
+  - first:
+      213: -2001879274914007578
+    second: Cursed Graveyard-Sheet 1_11
+  - first:
+      213: 6813828984113796466
+    second: Cursed Graveyard-Sheet 1_12
+  - first:
+      213: -11938166561849474
+    second: Cursed Graveyard-Sheet 1_13
+  - first:
+      213: 6500938880475167321
+    second: Cursed Graveyard-Sheet 1_14
+  - first:
+      213: -2775830311884092557
+    second: Cursed Graveyard-Sheet 1_15
+  - first:
+      213: -1002346429192877001
+    second: Cursed Graveyard-Sheet 1_16
+  - first:
+      213: 8897345012726325721
+    second: Cursed Graveyard-Sheet 1_17
+  - first:
+      213: 9043645528422365549
+    second: Cursed Graveyard-Sheet 1_18
+  - first:
+      213: 2468457767676212624
+    second: Cursed Graveyard-Sheet 1_19
+  - first:
+      213: 3790477224194524395
+    second: Cursed Graveyard-Sheet 1_20
+  - first:
+      213: 1388822440584246473
+    second: Cursed Graveyard-Sheet 1_21
+  - first:
+      213: -7746012429082284792
+    second: Cursed Graveyard-Sheet 1_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87921e38e5aba8df0800000000000000
+      internalID: -177124320225449608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb071a0f5d849920800000000000000
+      internalID: 2996175091438914550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512b3cf91bd24ef0800000000000000
+      internalID: -125296934960553637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ae9cc8212db260800000000000000
+      internalID: 7114879445430609246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0204a7fb7e0af80800000000000000
+      internalID: -8097217320436358976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f57edf5c3b364d50800000000000000
+      internalID: 6721124624389535219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37275bfb7d10a0f10800000000000000
+      internalID: 2236602191088808563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d96ebeb7a50b020800000000000000
+      internalID: 2355482093400005924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24fde414709cfc80800000000000000
+      internalID: -8287590386026810325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec2f1101edcedb20800000000000000
+      internalID: 3161190354730822892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25b38c6d0cfc660800000000000000
+      internalID: 7408351940762620647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5b887e765e734e0800000000000000
+      internalID: -2001879274914007578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751d5e1c559f8e50800000000000000
+      internalID: 6813828984113796466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fbfcefc4695dff0800000000000000
+      internalID: -11938166561849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7f35e779f73a50800000000000000
+      internalID: 6500938880475167321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b036fc9054a79d0800000000000000
+      internalID: -2775830311884092557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc31abb33f612f0800000000000000
+      internalID: -1002346429192877001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d165af1628b97b70800000000000000
+      internalID: 8897345012726325721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693a2c51bb718d70800000000000000
+      internalID: 9043645528422365549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095f461e249b14220800000000000000
+      internalID: 2468457767676212624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c25dd3fa7a9430800000000000000
+      internalID: 3790477224194524395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 6310
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47d13c6a6164310800000000000000
+      internalID: 1388822440584246473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursed Graveyard-Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 6610
+        y: 10
+        width: 280
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2ac26cb2a08490800000000000000
+      internalID: -7746012429082284792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

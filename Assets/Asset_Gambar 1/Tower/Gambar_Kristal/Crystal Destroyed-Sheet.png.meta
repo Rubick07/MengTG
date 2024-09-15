@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ba7bc318954c42543a9a7376ce9f3380
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3592527325175440079
+    second: Crystal Destroyed-Sheet_0
+  - first:
+      213: 7352800070329034744
+    second: Crystal Destroyed-Sheet_1
+  - first:
+      213: -5774932003747402847
+    second: Crystal Destroyed-Sheet_2
+  - first:
+      213: 282082482711730468
+    second: Crystal Destroyed-Sheet_3
+  - first:
+      213: -4150281340815736073
+    second: Crystal Destroyed-Sheet_4
+  - first:
+      213: -3263198551916106874
+    second: Crystal Destroyed-Sheet_5
+  - first:
+      213: 3849962821018126832
+    second: Crystal Destroyed-Sheet_6
+  - first:
+      213: -5184679847547157462
+    second: Crystal Destroyed-Sheet_7
+  - first:
+      213: 607619021776171269
+    second: Crystal Destroyed-Sheet_8
+  - first:
+      213: -1339466203942232074
+    second: Crystal Destroyed-Sheet_9
+  - first:
+      213: -6022971231010853115
+    second: Crystal Destroyed-Sheet_10
+  - first:
+      213: -8392526227051686472
+    second: Crystal Destroyed-Sheet_11
+  - first:
+      213: -3200733370033243444
+    second: Crystal Destroyed-Sheet_12
+  - first:
+      213: 8551566085863080144
+    second: Crystal Destroyed-Sheet_13
+  - first:
+      213: 8626916522853563772
+    second: Crystal Destroyed-Sheet_14
+  - first:
+      213: 4051574833326039320
+    second: Crystal Destroyed-Sheet_15
+  - first:
+      213: 134901069124127025
+    second: Crystal Destroyed-Sheet_16
+  - first:
+      213: 4690189819578536163
+    second: Crystal Destroyed-Sheet_17
+  - first:
+      213: 5821757038684659934
+    second: Crystal Destroyed-Sheet_18
+  - first:
+      213: 2119039288920505808
+    second: Crystal Destroyed-Sheet_19
+  - first:
+      213: -5873104250197090640
+    second: Crystal Destroyed-Sheet_20
+  - first:
+      213: 2075767700666168894
+    second: Crystal Destroyed-Sheet_21
+  - first:
+      213: 8313612416342583708
+    second: Crystal Destroyed-Sheet_22
+  - first:
+      213: -7441974859208622286
+    second: Crystal Destroyed-Sheet_23
+  - first:
+      213: 3533137535590663499
+    second: Crystal Destroyed-Sheet_24
+  - first:
+      213: 7647511096826492746
+    second: Crystal Destroyed-Sheet_25
+  - first:
+      213: -8938580971228876772
+    second: Crystal Destroyed-Sheet_26
+  - first:
+      213: -27605058636574034
+    second: Crystal Destroyed-Sheet_27
+  - first:
+      213: 6486969123004621347
+    second: Crystal Destroyed-Sheet_28
+  - first:
+      213: -3948644429177318060
+    second: Crystal Destroyed-Sheet_29
+  - first:
+      213: -6079323825792664528
+    second: Crystal Destroyed-Sheet_30
+  - first:
+      213: -7223820883951613433
+    second: Crystal Destroyed-Sheet_31
+  - first:
+      213: -7066343016175241833
+    second: Crystal Destroyed-Sheet_32
+  - first:
+      213: 726978730611087109
+    second: Crystal Destroyed-Sheet_33
+  - first:
+      213: -7304506329971842691
+    second: Crystal Destroyed-Sheet_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d98098e67c42ec0800000000000000
+      internalID: -3592527325175440079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ed6805b46a0660800000000000000
+      internalID: 7352800070329034744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe99280f15bdfa0800000000000000
+      internalID: -5774932003747402847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429946306882ae300800000000000000
+      internalID: 282082482711730468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20fb21c1d3766c0800000000000000
+      internalID: -4150281340815736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba879c43ac6b2d0800000000000000
+      internalID: -3263198551916106874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90f39a9c0dd6530800000000000000
+      internalID: 3849962821018126832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2443d4f5215c08b0800000000000000
+      internalID: -5184679847547157462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5013dbfe742be6800800000000000000
+      internalID: 607619021776171269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd1659592496de0800000000000000
+      internalID: -1339466203942232074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6333939b1a6ca0800000000000000
+      internalID: -6022971231010853115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55f6cacd1c78b80800000000000000
+      internalID: -8392526227051686472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccafd6a45f5b493d0800000000000000
+      internalID: -3200733370033243444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d085250c044da670800000000000000
+      internalID: 8551566085863080144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d72a3ced6f8b770800000000000000
+      internalID: 8626916522853563772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811af4148d51a3830800000000000000
+      internalID: 4051574833326039320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c6f0cec34fd100800000000000000
+      internalID: 134901069124127025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d12d8ac6e61140800000000000000
+      internalID: 4690189819578536163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ed638e290bc050800000000000000
+      internalID: 5821757038684659934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf3319107586d10800000000000000
+      internalID: 2119039288920505808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5a2e2dca8e7ea0800000000000000
+      internalID: -5873104250197090640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36bf62d9bb9ecc10800000000000000
+      internalID: 2075767700666168894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 8140
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99606cf172ef5370800000000000000
+      internalID: 8313612416342583708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7b797b4bc8b890800000000000000
+      internalID: -7441974859208622286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450b778ed9380130800000000000000
+      internalID: 3533137535590663499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 9250
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47733603da612a60800000000000000
+      internalID: 7647511096826492746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1036dd17f7c3f380800000000000000
+      internalID: -8938580971228876772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea296fd685ded9ff0800000000000000
+      internalID: -27605058636574034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 10360
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222e954c08560a50800000000000000
+      internalID: 6486969123004621347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 10730
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559f8effc89339c0800000000000000
+      internalID: -3948644429177318060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3f09a037e1aba0800000000000000
+      internalID: -6079323825792664528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 11470
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0403fd25dfbb90800000000000000
+      internalID: -7223820883951613433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 11840
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ffc3477e4fed90800000000000000
+      internalID: -7066343016175241833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079655cd4fb61a00800000000000000
+      internalID: 726978730611087109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Destroyed-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 0
+        width: 370
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71af6e913e21aa90800000000000000
+      internalID: -7304506329971842691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
